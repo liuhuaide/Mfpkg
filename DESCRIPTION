@@ -1,0 +1,13 @@
+Package: Mfpkg
+Title: My Firt R Package
+Version: 0.0.0.9000
+Authors@R: 
+    c(person("Huaide", "liu", , "jcakcino@gmail.com", role = c("aut", "cre")),
+      person("wang", "liao", , "liaowang913@outlook.com", role = "aut")) 
+Description: Euclidean Algorithm computes the greatest common divisor (GCD) of two 
+    integers.Dijkstra's algorithm calculates the shortest pathsb from 
+    a starting node to all other nodes in a graph.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
