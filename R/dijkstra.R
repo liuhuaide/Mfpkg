@@ -4,6 +4,7 @@
 #'     from a starting node to all other nodes
 #'     in a graph using Dijkstra's algorithm.
 #'
+#' @importFrom stats setNames
 #' @param graph A matrix or data frame representing the graph, where each row is an edge.
 #'        The first column should be the starting node, the second column the ending node,
 #'        and the third column the weight

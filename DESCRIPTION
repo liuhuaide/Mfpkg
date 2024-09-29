@@ -7,7 +7,7 @@ Authors@R:
 Description: Euclidean Algorithm computes the greatest common divisor (GCD) of two 
     integers.Dijkstra's algorithm calculates the shortest pathsb from 
     a starting node to all other nodes in a graph.
-License: GPL-3
+License: GPL-2 | GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
