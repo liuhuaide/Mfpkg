@@ -1,7 +1,7 @@
-#' @title Wiki Graph Dataset
-#' @description
+#' Wiki Graph Dataset
+#'
 #' A dataset representing a weighted, directed graph. This dataset can be used
-#'    to test graph algorithms like Dijkstra's algorithm.
+#' to test graph algorithms like Dijkstra's algorithm.
 #'
 #' @format A data frame with 18 rows and 3 variables:
 #' \describe{
